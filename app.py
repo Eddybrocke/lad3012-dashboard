@@ -34,8 +34,8 @@ TU_ID     = "186329"
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
 TU_INSIGHT = """
-Aun no he escrito mi insight. Lo agregare despues de explorar
-los graficos y filtros de mi dashboard.
+Descubrí que Superstore tiene ventas totales de $1,776,494, pero su margen es de solo 3.1%, quedando 8.9 puntos por debajo del benchmark de 12%. 
+Recomiendo revisar descuentos y costos en las órdenes de menor rentabilidad para subir el margen sin depender únicamente de aumentar ventas.
 """
 
 # ============================================================
